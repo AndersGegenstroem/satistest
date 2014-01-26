@@ -1,0 +1,14 @@
+{
+    "name": "andersgegenstroem/satistest",
+    "description": "Test repository for satis",
+    "license": "Properiatery",
+    "keywords": [
+        "test",
+        "satis"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
+
